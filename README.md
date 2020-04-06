@@ -1,6 +1,6 @@
 # NOTICE
-SAi Clicker Press Home Buttom to Start/Pause
+SAi Clicker Version 1.0.0
 
 
 
-Falce AutoPots
+Falce AutoPots Version 1.0.0
